@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.2.1] - 2026-06-18
+
+### Bug fixes
+
+- *(build)* Include GNUInstallDirs before add_subdirectory(subsystems)
+- *(timing)* Install GMX data file and resolve path at runtime
+
+### Miscellaneous
+
+- Use shared release workflow from ShipSoft/.github
 ## [0.2.0] - 2026-06-17
 
 ### Features
